@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 11
+Implementation-Title: AEM Teams - UI content
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: content
+Content-Package-Id: com.bounteous.aem:aem-teams.ui.content:1.0.0-SNAPSHO
+ T
+Content-Package-Description: UI content package for AEM Teams
+Content-Package-Dependencies: com.bounteous.aem:aem-teams.ui.apps:1.0.0-
+ SNAPSHOT
+Content-Package-Dependencies-Locations: com.bounteous.aem:aem-teams.ui.a
+ pps:1.0.0-SNAPSHOT=maven:com.bounteous.aem:aem-teams.ui.apps:1.0.0-SNAP
+ SHOT:zip
+Content-Package-Roots: /conf/aem-teams,/content/aem-teams,/content/dam/a
+ em-teams,/content/dam/aem-teams/asset.jpg,/content/experience-fragments
+ /aem-teams
+

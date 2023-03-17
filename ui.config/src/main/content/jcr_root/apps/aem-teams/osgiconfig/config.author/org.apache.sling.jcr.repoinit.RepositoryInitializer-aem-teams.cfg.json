@@ -1,0 +1,6 @@
+{
+  "scripts": [
+    "create service user aem-page-monitor with path system/aemteams",
+    "set ACL for aem-page-monitor\n  allow jcr:read on /\nend"
+  ]
+}

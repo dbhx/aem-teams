@@ -1,0 +1,5 @@
+{
+  "user.mapping": [
+    "com.bounteous.aem.teams.core:component-audit-service=[component-audit-service]"
+  ]
+}

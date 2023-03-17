@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM Teams - UI content</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="acHandling">merge</entry>
+<entry key="dependencies-locations">com.bounteous.aem:aem-teams.ui.apps:1.0.0-SNAPSHOT=maven:com.bounteous.aem:aem-teams.ui.apps:1.0.0-SNAPSHOT:zip</entry>
+<entry key="created">2023-03-15T15:52:54.145Z</entry>
+<entry key="groupId">com.bounteous.aem</entry>
+<entry key="description">UI content package for AEM Teams</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">com.bounteous.aem:aem-teams.ui.apps:1.0.0-SNAPSHOT</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="name">aem-teams.ui.content</entry>
+<entry key="artifactId">aem-teams.ui.content</entry>
+<entry key="group">com.bounteous.aem</entry>
+</properties>

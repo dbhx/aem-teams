@@ -1,0 +1,2 @@
+Adobe AEM Synchronization Tool.
+https://github.com/gavoja/aemsync

@@ -1,0 +1,5 @@
+{
+  "user.mapping": [
+    "com.bounteous.aem.teams.core:page-monitor=[aem-page-monitor]"
+  ]
+}

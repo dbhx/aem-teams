@@ -1,0 +1,6 @@
+{
+  "contentPathList": ["/content/wknd","/content/experience-fragments"],
+  "componentPathList": ["wcm/foundation/components/responsivegrid","aem-activate/components/structure/semantic/main-wrapper","wknd/components/container"],
+  "ignoredPropertiesList": ["textIsRich","contentFragment","_strucVersion","lastFragmentSave","layout","descriptionFromPage","altValueFromDAM","imageFromPageImage","isDecorative","titleFromPage","disableLazyLoading"],
+  "ignoredPropertyPatternsList": ["cq:","jcr:","sling:","@"]
+}

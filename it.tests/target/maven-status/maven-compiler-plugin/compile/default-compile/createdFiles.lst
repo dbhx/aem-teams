@@ -1,0 +1,4 @@
+com/bounteous/aem/it/tests/PublishPageValidationIT.class
+com/bounteous/aem/it/tests/GetPageIT.class
+com/bounteous/aem/it/tests/HtmlUnitClient.class
+com/bounteous/aem/it/tests/CreatePageIT.class

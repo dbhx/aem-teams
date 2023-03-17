@@ -1,0 +1,7 @@
+{
+  "scripts":[
+    "create service user component-audit-service with path system/componentaudit",
+    "create path /var/audit/com.day.cq.component(sling:Folder mixin rep:AccessControllable)",
+    "set ACL for component-audit-service\r\n allow jcr:read on /\r\n allow jcr:read,rep:write,jcr:readAccessControl,jcr:modifyAccessControl on /var/audit/com.day.cq.component\r\nend"
+  ]
+}
