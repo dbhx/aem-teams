@@ -42,12 +42,11 @@ flag.
 
 | Property | Description | Default value |
 | --- | --- | --- |
-| `it.author.url` | URL of the author instance | `http://localhost:4502` |
-| `it.author.user` | Admin user for the author instance | `admin` |
-| `it.author.password` | Password of the admin user for the author instance | `admin` |
-| `it.publish.url` | URL of the publish instance | `http://localhost:4503` |
-| `it.publish.user` | Admin user for the publish instance | `admin` |
-| `it.publish.password` | Password of the admin user for the publish instance | `admin` |
+| `aem.host` | host of the author instance | `localhost` |
+| `aem.port` | Admin user for the author instance | `4502` |
+| `vault.user` | user of the admin user for the author instance | `admin` |
+| `vault.password` | password of the admin user for the author instance | `admin` |
+
 
 ## ClientLibs
 
